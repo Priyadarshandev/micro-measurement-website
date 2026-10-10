@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="10" fill="#0C2340"/>
+  <!-- Precision gauge/caliper icon -->
+  <circle cx="24" cy="24" r="16" stroke="#0284C7" stroke-width="2.5" stroke-dasharray="3 3"/>
+  <circle cx="24" cy="24" r="12" stroke="#FFFFFF" stroke-width="2"/>
+  <line x1="24" y1="24" x2="31" y2="17" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="3.5" fill="#0284C7"/>
+  <path d="M12 24h3M33 24h3M24 12v3M24 33v3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+</svg>
